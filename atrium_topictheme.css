@@ -1,0 +1,11 @@
+#features-menu li a.icon-topictheme span.icon {
+  background:url(images/icon40.png) no-repeat;
+}
+
+.feature .feature-atrium_topictheme {
+  background:transparent url(images/icon20.png) no-repeat;
+}
+
+.feature-atrium_topictheme {
+  background:url(images/icon20.png) no-repeat !important;
+}
